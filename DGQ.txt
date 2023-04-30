@@ -4,7 +4,7 @@ HACKER OS v0.47
 &nbsp;
 Press [ESC] to exit
 &nbsp;
-<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login <!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->_MRZT721010_#7210</span>
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login <!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->HARUKI MYAKO</span>
 &nbsp;
 Enter Your Username: _HARUKIMYAKO_
 Enter Your Password: *********
